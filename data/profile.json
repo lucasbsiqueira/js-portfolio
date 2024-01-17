@@ -1,0 +1,73 @@
+{
+  "name": "Lucas Siqueira",
+  "photo": "https://avatars.githubusercontent.com/u/139283705?v=4",
+  "job": "Estudante de ADS",
+  "location": "São Paulo - SP",
+  "phone": "(11) 96197-2441",
+  "email": "lucasb.siqueira@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/lucasbsiqueira/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      }
+    ],
+    "softSkills": [
+      "Flexibilidade e Resiliência",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Desenvolvimento Ágil"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Clone da página da HBOMax",
+      "url": "https://github.com/lucasbsiqueira/hbomax",
+      "github": true
+    },
+    {
+      "name": "Teste empresa Imovel Guide",
+      "url": "https://github.com/lucasbsiqueira/teste-imovel-guide",
+      "github": true
+    },
+    {
+    "name": "Projeto de site de uma Coffee Shop",
+      "url": "https://github.com/lucasbsiqueira/coffeeshop-bootstrap",
+      "github": true
+    },
+    {
+      "name": "Landing page Discord responsivo",
+        "url": "https://github.com/lucasbsiqueira/site-discord-responsivo",
+        "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Assistente Técnico / Girassol Química",
+      "period": "07/2020 - 12/2020",
+      "description": "Responsável pela instalação e manutenção de diluidores de produtos e dosadores eletrônicos de produtos de limpeza para máquinas de lava-louça industriais, garantindo o funcionamento correto e eficiente das mesmas. Realização de inspeções periódicas nos dosadores eletrônicos e diluidores de produtos de limpeza, identificando e corrigindo possíveis falhas ou problemas técnicos. Realizei a implementação dos equipamentos e produtos nos SESC's de São Paulo sendo responsável por realizar visitas técnicas para avaliar qual necessidade do cliente, realizar instalações de equipamentos, manutenções e ministrar treinamentos para equipes que utilizavam os produtos"
+    },
+    {
+      "name": "Estagiário de Projetos Elétricos / Automation Pack",
+      "period": "04/2019 - 05/2022",
+      "description": "Acompanhamento no dimensionamento de componentes e equipamentos para automação de máquinas industriais; acompanhamento no desenvolvimento de projetos elétricos de máquinas industriais; acompanhamento na montagem mecânica e elétrica de painéis elétricos de máquinas industriais; auxílio nas demais atividades da área."
+    }
+  ]
+}
